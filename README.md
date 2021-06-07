@@ -2,4 +2,7 @@
 
 
 Aplikacja stworzona w ramach zajęć z Wirtualizacji i Przetwarzania w Chmurze. 
-Piotr Małek i Kamil Rąpała
+Zrealizowali: 
+Piotr Małek 200543
+Kamil Rąpała 217320
+
